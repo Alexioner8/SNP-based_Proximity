@@ -8,7 +8,7 @@ This repository contains the scripts and workflows used for the analysis present
 
 The scripts implement an SNV-sharing–based nearest-neighbor (NN) detection approach to infer clonal relationships among single cells, using SMART-seq2 data. The analysis integrates variant calling, quality control, and visualization pipelines to explore lineage relationships between vascular smooth muscle cells (SMCs), macrophages, and endothelial-like cells within human carotid artery plaques.
 
-##Requirements
+## Requirements
 
 R (≥ 4.4.3) 
 
@@ -33,7 +33,7 @@ e1071 (R package; 1.7-13)
 ggplot2
 
 
-##Contact
+## Contact
 
 For questions, please contact:
 Alejandro Martinez-Navarro, PhD
