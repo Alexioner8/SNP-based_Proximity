@@ -10,17 +10,28 @@ The scripts implement an SNV-sharing–based nearest-neighbor (NN) detection app
 
 ##Requirements
 
-R (≥ 4.4.3)
+R (≥ 4.4.3) 
+
 python (version >= 3.73)
+
 java (open JDK>=1.8.0)
+
 pandas>=1.2.3
+
 pysam>=0.16.0.1
+
 NumPy>=1.19.5
+
 sciPy>=1.6.3
+
 pillow>=8.2.0
+
 data.table(R package; version >=1.14.8)
+
 e1071 (R package; 1.7-13)
+
 ggplot2
+
 
 ##Contact
 
