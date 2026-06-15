@@ -1,4 +1,4 @@
-# Single-cell SNV-based Nearest Neighbor Cell Reconstruction Reveals SMC–Macrophage–Endothelial Transdifferentiation from Clonal Progenitors in Human Carotid Plaques
+# Single-Cell SNVs as Natural Barcodes Suggest Intercellular Plasticity and Clonal Co-Evolution in Human Plaques
 
 
 ## Overview
