@@ -4,7 +4,7 @@
 ## Overview
 
 This repository contains the scripts and workflows used for the analysis presented in the manuscript
-“Single-cell SNV-based Nearest Neighbor Reconstruction provides evidence of Intercellular Plasticity and Clonal Evolution in Human Carotid Plaques”
+“Single-Cell SNVs as Natural Barcodes Suggest Intercellular Plasticity and Clonal Co-Evolution in Human Plaques”
 
 The scripts implement an SNV-sharing–based nearest-neighbor (NN) detection approach to infer clonal relationships among single cells, using SMART-seq2 data. The analysis integrates variant calling, quality control, and visualization pipelines to explore lineage relationships between vascular smooth muscle cells (SMCs), macrophages, and endothelial cells within human carotid artery plaques.
 
