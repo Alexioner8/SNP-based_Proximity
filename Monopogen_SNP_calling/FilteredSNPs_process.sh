@@ -659,7 +659,7 @@ for (patient in patients) {
   # Max shared SNPs per cell
   max_shared_per_cell <- apply(shared_snp_mat, 1, max)
 
-  # Compute 99th percentile threshold
+  # Compute 95th percentile threshold
   threshold_99 <- quantile(max_shared_per_cell, 0.95)
 
   # Select cells above threshold
