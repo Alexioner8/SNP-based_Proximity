@@ -361,7 +361,7 @@ featVec[featVec == "8"] = "modulated SMCs"
 featVec[featVec == "9"] = "Peripheral nerve cells"
 featVec[featVec == "10"] = "NK cells"
 featVec[featVec == "11"] = "Plasma cells"
-featVec[featVec == "12"] = "Neutrophils"
+featVec[featVec == "12"] = "Monocytes"
 featVec[featVec == "13"] = "Fibroblast 2"
 featVec[featVec == "14"] = "Mast cells"
 
